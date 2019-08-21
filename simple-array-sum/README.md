@@ -9,4 +9,3 @@ The second line contains N space-separated integers representing the array's ele
 
 Output Format
 Print the sum of the array's elements as a single integer.
-# My-HackerRank-Solutions
